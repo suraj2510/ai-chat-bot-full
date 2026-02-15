@@ -1,11 +1,3 @@
-Here is a professional README.md you can directly copy and paste into your GitHub repo for your assignment submission 👇
-
-Just create a file named:
-
-README.md
-
-
-in your project root and paste this:
 
 # 🤖 AI Chatbot – MERN Stack (Full Stack Project)
 
