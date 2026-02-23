@@ -8,7 +8,7 @@ This project was developed as a Full Stack Developer Internship Assignment.
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend (Vercel): https://your-vercel-link.vercel.app  
+- 🌐 Frontend (Vercel): https://suraj-ai-chat-bot.vercel.app/
 - 🖥 Backend (Render): https://ai-chat-bot-full.onrender.com  
 - 📦 GitHub Repo: https://github.com/suraj2510/ai-chat-bot-full  
 
